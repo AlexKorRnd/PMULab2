@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PMULab2</string>
+    <string name="input_text">Введите текст сообщения</string>
+    <string name="send">Отправить</string>
+    <string name="sharing_action">Поделиться</string>
+    <string name="sharing_dialog">Поделиться</string>
+    <string name="message">Сообщение</string>
+</resources>
